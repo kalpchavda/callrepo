@@ -1,3 +1,3 @@
 <?php
-$d = "first line";
+$master = "first line";
 ?>
